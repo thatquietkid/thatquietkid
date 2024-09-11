@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on nothing as of now but looking forward to it.<br>I'm looking to collaborate on Open-source projects.<br>I'm looking for help with cloud based projects.<br>I'm currently learning IBM DevOps and Software Engineering professional certificate and I have complete Google CyberSecurity specialization certification.<br>Ask me about any query regarding cloud.<br>Fun fact I don't enjoy front-end.
+I'm looking to collaborate on Open-source projects.<br>I'm looking for help with cloud based projects.<br>I'm currently learning IBM DevOps and Software Engineering professional certificate and I have completed Google CyberSecurity specialization certification.<br>Ask me about any query regarding cloud.
 
 
 ## 🌐 Socials:
