@@ -12,6 +12,9 @@ I'm looking to collaborate on Open-source projects.<br>I'm looking for help with
 ![](https://github-readme-streak-stats.herokuapp.com/?user=thatquietkid&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=thatquietkid&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
+# 🎓 Career Roadmap:
+[![roadmap.sh](https://roadmap.sh/card/tall/66f2d8b2c45e253cb012c004?variant=dark&roadmaps=devops%2Ccyber-security)](https://roadmap.sh)
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=thatquietkid&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
